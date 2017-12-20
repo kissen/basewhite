@@ -20,7 +20,7 @@ CHARACTERS = [
 
 def encode_byte(b: int) -> bytes:
     ''' Encode the single byte ``b`` to basewhite bytes. Each byte
-    gets turned to four bytes in basewhtie encoding '''
+    gets turned to four bytes in basewehite encoding. '''
 
     digits = [
         CHARACTERS[b & 0b00000011],

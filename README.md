@@ -6,7 +6,7 @@ Translate binary data to a format optimized for printing.
 Similar to how [Base64](https://en.wikipedia.org/wiki/Base64)
 represents binary data using 64 distinct characters, the BaseWhite
 coding translates binary data to 4 distinct whitespace characters. As
-such, data coded with BaseWhite saves a lot of printer ink when is
+such, data coded with BaseWhite saves a lot of printer ink when
 printed.
 
 Inspired by the
